@@ -312,7 +312,7 @@ footer p span {
 
 @media (min-width:750px) {   
     .social .sombra,
-    .social a
+    .social a,
     .social-container .sombra {
       width: 640px;
   }
