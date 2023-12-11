@@ -155,7 +155,7 @@ a {
 .social .sombra {
     border: 4px solid var(--cor-principal-texto-claro);
     border-radius: 8px;
-    width: 350px;
+    width: 300px;
     height: 64px;
 
     position: absolute;
@@ -169,7 +169,7 @@ a {
 } 
 
 .social a {
-    width: 350px; /*tirar*/
+    width: 300px; /*tirar*/
     height: 64px;
     font-size: 24px;
 
@@ -228,7 +228,7 @@ a {
     border: 4px solid var(--cor-principal-texto-claro);
     border-radius: 8px;
     background-color: var(--cor-principal-texto-claro);
-    width: 350px;
+    width: 300px;
     height: 64px;
     
     position: absolute;
